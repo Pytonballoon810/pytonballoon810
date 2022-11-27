@@ -1,4 +1,4 @@
-<h3 align="center">I'm a student in germany, almost everywhere nicknamed as Pytonballoon810</h3>
+<h3 align="center">Hi, I'm Philipp 🐍</h3>
 
 - 🔭 I’m currently working on [GFS-discord-bot](https://github.com/Pytonballoon810/GFS-discord-bot)
 
