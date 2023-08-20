@@ -1,6 +1,6 @@
 <h3 align="center">Hi, I'm Philipp 🐍</h3>
 
-- 🔭 I’m currently working on [GFS-discord-bot](https://github.com/Pytonballoon810/GFS-discord-bot)
+- 🔭 I’m currently working on a DIY SMD-solder-hot-plate
 
 - 🌱 I’m currently learning **CSS and HTML**
 
