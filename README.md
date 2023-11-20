@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **CSS and HTML**
 
-- 💬 Ask me about **Python and VSCode**
+- 💬 Ask me about **Nobble**
 
 - 📫 How to reach me **philipp@hofmann-ebs.de**
 
