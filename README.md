@@ -7,6 +7,7 @@ Web Developer, DIYer, Backend freak
 First came in touch with programming with the Lego Mindstorms V1 in 2014. Then continued to learn python as my main language for 5 years on and off. Right now learning new things every day like server management and docker. I am also s very good solderer and love designing and building electronics projects
 
 * 🌍  I'm based in Bavaria, Germany
+* 🖥️  See my portfolio at [Portfolio](http://example.com)
 * ✉️  You can contact me at [philipp@hofmann-ebs.de](mailto:philipp@hofmann-ebs.de)
 * 🚀  I'm currently working on [Nobble](http://github.com/Nobble-Buttons)
 * 🧠  I'm learning Smart Home, MD language, JS, CSS, HTML
