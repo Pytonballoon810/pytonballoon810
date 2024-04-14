@@ -1,18 +1,18 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Philipp Hofmann
 =======================================================================================================================================
 
-Web Developer, DIYer, Backend freak
+Web Developer, DIYer, Backend freak, Electronics enthusiast
 -----------------------------------
 
-First came in touch with programming with the Lego Mindstorms V1 in 2014. Then continued to learn python as my main language for 5 years on and off. Right now learning new things every day like server management and docker. I am also s very good solderer and love designing and building electronics projects
+I first came in touch with programming via the Lego Mindstorms V1 in 2014. Then continued to learn python as my main language for 5 years on and off. Right now learning new things every day like server management and docker. I am also a very good solderer and love designing and building electronics projects
 
 * 🌍  I'm based in Bavaria, Germany
 * 🖥️  See my portfolio at [Portfolio](http://pytonballoon810.me)
-* ✉️  You can contact me at [philipp@hofmann-ebs.de](mailto:philipp@hofmann-ebs.de)
+* ✉️  You can contact me at [philipp@hofmann-ebs.de](mailto:philipp@hofmann-ebs.de) or [philipp@nobble.it](mailto:philipp@nobble.it)
 * 🚀  I'm currently working on [Nobble](http://github.com/Nobble-Buttons)
-* 🧠  I'm learning Smart Home, MD language, JS, CSS, HTML
-* 🤝  I'm open to collaborating on nearly any electronics project, things to learn from
-* ⚡  I am a Student at Friedrich Alexander University Nürnberg. Fast learner (if I do say so myself)
+* 🧠  I'm learning Smart Home, MD language, JS, CSS, HTML, Soldering, Electronics design and building a startup
+* 🤝  I'm open to collaborating on nearly any electronics project, if there are things to learn from
+* ⚡  I am a Student at Friedrich Alexander University Nürnberg/Erlangen. Fast learner (if I do say so myself)
 
 ### Skills
 
