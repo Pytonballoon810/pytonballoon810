@@ -10,6 +10,7 @@ export const SkillsSection: React.FC = () => {
     { name: 'SSH', level: 4 },
     { name: 'NodeJS', level: 3 },
     { name: 'C', level: 2 },
+    { name: 'M / PowerQuery', level: 2 },
     { name: 'Rust', level: 2 },
     { name: 'ASM', level: 1 },
     { name: 'PHP', level: 1 }
@@ -17,7 +18,11 @@ export const SkillsSection: React.FC = () => {
 
   const services = [
     { name: 'Excel', level: 4 },
+    { name: 'Word', level: 4 },
     { name: 'PowerPoint', level: 3 },
+    { name: 'PowerBI', level: 3 },
+    { name: 'Fusion 360', level: 4 },
+    { name: 'KiCAD', level: 4 },
     { name: 'PostgresSQL', level: 4 },
     { name: 'Docker', level: 4 },
     { name: 'NGINX / SWAG', level: 4 },
